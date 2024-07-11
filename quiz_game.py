@@ -6,7 +6,7 @@ print("Come on...Let's play")
 score = 0
 
 answer = input("What is the capital of Canada? ")
-if answer.lower() == "ottawa":
+if answer.lower() == "OTTAWA":
     print("Correct")
     score += 1
 else:
